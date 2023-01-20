@@ -3,9 +3,9 @@
 
 - 🔥 junior Web Developer
 
-- 🌱  domino HTML, CSS e jAVASCRIPT e atualmente em  imersão no aprendizado em React.
+- 🌱  Domino  HTML, CSS e  Javascript, e  em imersão no  aprendizado em  React. 
 
-- ⚡  Eu sou obcecada por aprender  🤯
+- ⚡  Não existe nada que  eu não possa aprender 🤯
 
 - 👨‍💻 More at www.linkedin.com/in/monica-barreto1303
 
