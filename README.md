@@ -3,9 +3,9 @@
 
 - 🔥 junior Web Developer
 
-- 🌱 I’m currently learning HTML, CSS, BOOTSTRAP, JAVASCRIPT.
+- 🌱  domino HTML, CSS e jAVASCRIPT e atualmente em  imersão no aprendizado em React.
 
-- ⚡ Fun fact **Oneye 😜**
+- ⚡  Eu sou obcecada por aprender  🤯
 
 - 👨‍💻 More at www.linkedin.com/in/monica-barreto1303
 
