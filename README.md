@@ -3,9 +3,9 @@
 
 - 🔥 junior Web Developer
 
-- 🌱  Domino  HTML, CSS e  Javascript, e  em imersão no  aprendizado em  React. 
+- 🌱   C# | JAVASCRIPT | REACT | JQUERY | BOOTSTRAP 
 
-- ⚡  Não existe nada que  eu não possa aprender 🤯
+- ⚡ "Geek por natureza, programador por opção." 🤯
 
 - 👨‍💻 More at www.linkedin.com/in/monica-barreto1303
 
