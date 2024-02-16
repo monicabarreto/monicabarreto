@@ -3,7 +3,7 @@
 
 - 🔥 junior Web Developer
 
-- 🌱   C# | JAVASCRIPT | REACT | JQUERY | BOOTSTRAP 
+- 🌱   C# | .NET CORE | JAVASCRIPT | JQUERY | SQL SERVER | MVC
 
 - ⚡ "Geek por natureza, programador por opção." 🤯
 
