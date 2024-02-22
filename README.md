@@ -3,7 +3,7 @@
 
 - 🔥 FULLSTACK DEVELOPER
 
-- 🌱   C# | .NET CORE | JAVASCRIPT | JQUERY | SQL SERVER | MVC
+- 🌱   C# | ASP.NET CORE | JAVASCRIPT | JQUERY | SQL| POSTGRESSQL|
 
 - ⚡ "Geek por natureza, programador por opção." 🤯
 
