@@ -3,8 +3,7 @@
 
 - 🔥 FULLSTACK DEVELOPER
 
-- 🌱   C# | ASP.NET CORE | JAVASCRIPT | JQUERY | SQL| POSTGRESSQL|
-
+- 🌱   C# | ASP.NET CORE | JAVASCRIPT | JQUERY | SQL|
 - ⚡ "Geek por natureza, programador por opção." 🤯
 
 - 👨‍💻 More at www.linkedin.com/in/monica-barreto1303
