@@ -3,7 +3,7 @@
 
 - 🔥 FULLSTACK DEVELOPER
 
-- 🌱   .NET CORE | C# | JAVASCRIPT | REACT | TYPESCRIPT| NEXT| SQL | GIT
+- 🌱   ASP.NET CORE | .NET Core | C# | JAVASCRIPT | REACT | TYPESCRIPT| NEXT| SQL | GIT
 - ⚡ "Geek por natureza, programador por opção." 🤯
 
 - 👨‍💻 More at www.linkedin.com/in/monica-barreto1303
